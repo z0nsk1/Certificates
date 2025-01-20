@@ -1,1 +1,1 @@
-Tässä repossa on Mimo-sovelluksessa suorittamani sertifikaatit. Mimo on samantyylinen kuin Duolingo, jossa on Web-ohjelmoinnissa käytettäviä teknologioita, kuten JavaScript, Python ja HTML. Sertifikaatteja olen suorittanut ylläpitääkseni taitoja ja toisaalta myös näytöksi osaamisesta.
+Tässä repossa on Mimo-sovelluksessa suorittamani sertifikaatit. Mimo on samantyylinen kuin Duolingo, mutta siellä on Web-ohjelmoinnissa käytettäviä teknologioita, kuten JavaScript, Python ja HTML. Sertifikaatteja olen suorittanut ylläpitääkseni taitoja ja toisaalta myös näytöksi osaamisesta.
